@@ -1,2 +1,2 @@
 # junior-frontendmentor-7
-Insure landing page
+Insure landing page: https://mannbell.github.io/junior-frontendmentor-6/
